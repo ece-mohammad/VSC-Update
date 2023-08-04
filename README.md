@@ -80,5 +80,5 @@ In VSCode-linux-x64, a 'data' directory (where 'user-data', 'extensions' and 'tm
 
 ## Notes
 
-- [^1]: To install a portable version of VSCode, or make a current installation portable, check this [link](https://code.visualstudio.com/docs/editor/portable)
+[^1]: To install a portable version of VSCode, or make a current installation portable, check this [link](https://code.visualstudio.com/docs/editor/portable)
 
